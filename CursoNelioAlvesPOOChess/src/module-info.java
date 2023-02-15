@@ -6,4 +6,5 @@
  *
  */
 module CursoNelioAlvesPOOChess {
+	requires java.desktop;
 }
